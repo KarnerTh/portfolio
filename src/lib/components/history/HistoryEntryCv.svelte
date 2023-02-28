@@ -20,7 +20,7 @@
 
   const getWorkExperienceTableData = (): CommandResultTableData => {
     return {
-      description: "Work expoerience",
+      description: "Work experience",
       columns: ["---------------------", ""],
       rows: data.workExperience.map((e) => [
         `${e.start} - ${e.end}`,

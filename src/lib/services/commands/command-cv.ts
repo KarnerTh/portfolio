@@ -26,7 +26,7 @@ export class CommandCv implements Command {
           {
             start: "Jan 2019",
             end: "Sep 2021",
-            jobTitle: "Softare Developer",
+            jobTitle: "Software Developer",
             companyName: "BYTEPOETS GmbH",
           },
           {
@@ -41,19 +41,19 @@ export class CommandCv implements Command {
             start: "2019",
             end: "2021",
             title: "FH CAMPUS 02",
-            description: "DI, IT & business informatics"
+            description: "DI, IT & Business Informatics"
           },
           {
             start: "2016",
             end: "2019",
             title: "FH CAMPUS 02",
-            description: "BSc., business informatics"
+            description: "BSc., Business Informatics"
           },
           {
             start: "2010",
             end: "2015",
             title: "HTBLA Kaindorf",
-            description: "A level, computer science"
+            description: "A level, Computer Science"
           }
         ],
       },
