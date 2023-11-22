@@ -18,8 +18,14 @@ export class CommandCv implements Command {
         },
         workExperience: [
           {
-            start: "Oct 2021",
+            start: "Jul 2023",
             end: "Present",
+            jobTitle: "Senior Software Engineer",
+            companyName: "Starship",
+          },
+          {
+            start: "Oct 2021",
+            end: "Jun 2023",
             jobTitle: "Senior Software Engineer - Technical Lead",
             companyName: "Pink Robin GmbH",
           },
